@@ -1,3 +1,7 @@
 .A {
   background-color: black; color: white;
 }
+
+table {
+  background-color: grey; border-color: black;
+}
