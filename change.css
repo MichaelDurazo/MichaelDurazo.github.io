@@ -3,7 +3,7 @@ h1 {
 }
 
 table, tr, th {
-  border: 1px solid black;text-color: white;
+  border: solid; border-color: white; font-color: white;
 }
 
 body {
