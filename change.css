@@ -9,3 +9,7 @@ table, tr, th {
 body {
   background-color: teal;
 }
+
+td {
+  background-color: lightgrey;
+}
